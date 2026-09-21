@@ -13,7 +13,7 @@
 I'm an AI & Robotics MSc student interested in turning ideas into things that actually work.
 Most of my recent work has been around **LLMs, NLP, RAG, AI agents, document intelligence, and Edge AI**, with a growing interest in building reliable AI systems for real-world use.
 
-🔭  Currently working on **AI-powered cross-document validation for commercial & customs documents**
+🔭  Currently working on **AI-powered cross-document validation**
 🌱  Currently learning **LLM systems, agentic workflows, RAG evaluation, and document intelligence**
 💬  Ask me about **LLM applications, RAG, document intelligence, Edge AI, or robotics**
 😄  Pronouns: **she/her**
@@ -21,7 +21,7 @@ Most of my recent work has been around **LLMs, NLP, RAG, AI agents, document int
 ### 🧪 What I'm Building
 
 **📄 Cross-Document Intelligence**
-Working on methods for finding inconsistencies across commercial and customs documents and tracing each finding back to its source.
+Working on methods for finding inconsistencies across documents and tracing each finding back to its source.
 
 **🤖 Agentic Software Engineering**
 Exploring how LLMs and structured workflows can help with large-scale code analysis, migration, validation, and testing.
